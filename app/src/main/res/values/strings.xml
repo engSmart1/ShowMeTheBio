@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Show Me The Bio</string>
+    <string name="title_activity_bethoven">Bethoven</string>
+    <string name="text_view_back">Back</string>
+    <string name="text_view">Bethoven</string>
+
+</resources>
